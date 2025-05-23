@@ -20,7 +20,3 @@ Unacceptable behavior includes:
 
 Violations may be reported to project maintainers.  
 See full text at [contributor-covenant.org](https://www.contributor-covenant.org/).
-
-# Contribution Guidelines
-
-All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
